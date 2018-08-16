@@ -1,0 +1,36 @@
+https://pages.github.com
+
+- IDE Cloud
+        http://c9.io/
+        https://codenvy.io/site/login
+        https://orionhub.org/
+        https://www.jdoodle.com/
+        http://pythonfiddle.com/
+        https://pyfiddle.io/
+        https://jsfiddle.net/
+        https://codepen.io
+        
+- IDE Portugol
+        Portugol Studio (http://lite.acad.univali.br/portugol/)
+        PortugolIDE (http://www.dei.estt.ipt.pt/portugol/)
+        VisuAlg (http://www.apoioinformatica.inf.br/produtos/visualg)
+
+- IDE Windows
+        https://code.visualstudio.com/
+        https://atom.io/
+        https://www.sublimetext.com/
+        https://www.eclipse.org/
+        https://netbeans.org/
+        http://www.aptana.com/
+        https://www.jetbrains.com/idea/
+        https://developer.android.com/studio/
+
+- IDE Eletronica
+        https://www.arduino.cc/
+
+- Computação Quântica
+        https://www.microsoft.com/en-us/quantum/development-kit
+
+- Livro Programação
+        http://deitel.com/Books/Java/JavaHowtoProgram11e/tabid/3683/Default.aspx
+
