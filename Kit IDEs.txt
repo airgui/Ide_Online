@@ -38,4 +38,8 @@ https://pages.github.com
 
 - Livro Programação
         http://deitel.com/Books/Java/JavaHowtoProgram11e/tabid/3683/Default.aspx
+        
+- Artigo sobre Computação Quântica
+        https://www.c-sharpcorner.com/article/a-beginners-guide-to-quantum-computing/
+        https://www.c-sharpcorner.com/article/getting-started-with-q-programming/
 
