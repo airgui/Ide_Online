@@ -4,11 +4,16 @@ https://pages.github.com
         http://c9.io/
         https://codenvy.io/site/login
         https://orionhub.org/
-        https://www.jdoodle.com/
         http://pythonfiddle.com/
         https://pyfiddle.io/
         https://jsfiddle.net/
         https://codepen.io
+        
+- Online Compiler IDEs
+        https://www.jdoodle.com/
+        http://www.compileonline.com/
+        https://www.onlinegdb.com/
+        https://ideone.com/
         
 - IDE Portugol
         Portugol Studio (http://lite.acad.univali.br/portugol/)
@@ -28,9 +33,9 @@ https://pages.github.com
 - IDE Eletronica
         https://www.arduino.cc/
 
-- ComputaÁ„o Qu‚ntica
+- Computa√ß√£o Qu√¢ntica
         https://www.microsoft.com/en-us/quantum/development-kit
 
-- Livro ProgramaÁ„o
+- Livro Programa√ß√£o
         http://deitel.com/Books/Java/JavaHowtoProgram11e/tabid/3683/Default.aspx
 
