@@ -43,3 +43,6 @@ https://pages.github.com
         https://www.c-sharpcorner.com/article/a-beginners-guide-to-quantum-computing/
         https://www.c-sharpcorner.com/article/getting-started-with-q-programming/
 
+- Simuladores Online
+        https://secondlife.com/
+        https://sansar.com/
