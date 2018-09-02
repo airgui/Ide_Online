@@ -1,4 +1,5 @@
 https://pages.github.com
+https://thimble.mozilla.org/
 
 - IDE Cloud
         http://c9.io/
