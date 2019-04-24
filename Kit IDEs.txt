@@ -44,6 +44,11 @@ https://thimble.mozilla.org/
         https://www.c-sharpcorner.com/article/a-beginners-guide-to-quantum-computing/
         https://www.c-sharpcorner.com/article/getting-started-with-q-programming/
 
+-Pastebin
+        https://pastebin.com/
+        https://glot.io/
+        https://rentry.co/
+
 - Simuladores Online
         https://secondlife.com/
         https://sansar.com/
